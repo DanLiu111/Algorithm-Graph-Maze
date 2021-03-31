@@ -1,2 +1,4 @@
 # Algorithm-Graph
-Finding shortest path of the maze using Dijkstra's Algorithm
+Finding shortest path of the maze
+   * Dijkstra's Algorithm
+   * Bellman Ford's Algorithm
