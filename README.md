@@ -26,11 +26,11 @@ Two ways to solve problem 2 (MST problem):
 * Kruskal’s Algorithm
 
 
-##Enhancement:
+## Enhancement:
 
 Bellman Ford’s Algorithm can be used to find shortest paths when there is no any negative weighted cycle. Besides, it can be applied in some applications since it may have negative edges
 
 
-##Conclusion:
+## Conclusion:
 
 Summary of the solution and comparison for each problem. 
