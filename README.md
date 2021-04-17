@@ -33,4 +33,4 @@ Bellman Ford’s Algorithm can be used to find shortest paths when there is no a
 
 ## Conclusion:
 
-Summary of the solution and comparison for each problem. 
+Summary of the solution for each problem and comparison between each algorithm.
