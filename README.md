@@ -1,7 +1,7 @@
 # Algorithm - Maze Project
 
 
-# Problem:
+#Problem:
 
 1.How to find the shortest path of the maze?
 
