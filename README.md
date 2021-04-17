@@ -3,9 +3,9 @@
 
 ## Problem:
 
-1.How to find the shortest path of the maze?
+1. How to find the shortest path of the maze?
 
-2.How to find the minimum spanning tree of the maze?
+2. How to find the minimum spanning tree of the maze?
 
 
 ## Introduction:
