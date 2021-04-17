@@ -7,6 +7,7 @@ Problem:
 
 2.How to find the minimum spanning tree of the maze?
 
+
 Introduction:
 
 Shortest path is the problem of finding a path between two vertices (or nodes) in a graph such that the sum of the weights of its constituent edges is minimized.
@@ -28,10 +29,11 @@ Two ways to solve MST problem:
 * Prim’s Algorithm
 * Kruskal’s Algorithm
 
+
 Enhancement Ideas:
 
 Bellman Ford’s Algorithm can be used to find shortest paths when there is no any negative weighted cycle. Besides, it can be applied in some applications since it may have negative edges
 
-Conclusion:
 
+Conclusion:
 Summary of the solution and comparison for each problem. 
