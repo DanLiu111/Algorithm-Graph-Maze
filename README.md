@@ -1,12 +1,14 @@
 # Algorithm - Maze Project
-.markdown-preview.markdown-preview { p, ul, ol {font-size: 1.2em;} }
+
 
 Problem:
 1.How to find the shortest path of the maze?
-2.How to find the minimum spanning tree of the maze?
+
+3.How to find the minimum spanning tree of the maze?
 
 Introduction:
 Shortest path is the problem of finding a path between two vertices (or nodes) in a graph such that the sum of the weights of its constituent edges is minimized.
+
 MST is a subset of edges of a connected weighted undirected graph which connects all the vertices with the minimum possible total edge weight.
 
 
