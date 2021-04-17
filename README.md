@@ -1,4 +1,5 @@
 # Algorithm - Maze Project
+.markdown-preview.markdown-preview { p, ul, ol {font-size: 1.2em;} }
 
 Problem:
 1.How to find the shortest path of the maze?
