@@ -17,7 +17,7 @@ MST is a subset of edges of a connected weighted undirected graph which connects
 
 ## Solution:
 
-Two ways to solve problem 1(shortest path):
+Two ways to solve problem 1 (shortest path):
 * Dijkstra’s Algorithm
 * Bellman Ford’s Algorithm
    
